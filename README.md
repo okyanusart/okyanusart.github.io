@@ -1,1 +1,0 @@
-# okyanusart.github.io
