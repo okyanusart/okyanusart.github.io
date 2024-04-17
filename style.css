@@ -12,7 +12,7 @@ html, body {
   justify-content: center;
 }
 
-#picture {
+#logo {
   /* ensure 1:1 aspect ratio, tweak 50 to make SVG larger */
   width: 50vmin;
   height: 50vmin;  
